@@ -24,4 +24,4 @@ def all_phrases
     def toadstool
     def link
 end
-all phrases
+all_phrases
